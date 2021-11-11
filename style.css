@@ -1,0 +1,37 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+
+img{
+    height: 150px;
+}
+
+#meme{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    align-items: center;
+    min-height: 200px;
+    background-color: pink;
+}
+
+#korone{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    align-items: center;
+    min-height: 200px;
+    background-color:burlywood;
+}
+#pekora{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    align-items: center;
+    min-height: 200px;
+}
